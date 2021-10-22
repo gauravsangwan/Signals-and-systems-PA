@@ -14,6 +14,5 @@ HOW TO RUN PROGRAM AND OBTAIN THE FIGURE
 4. Go to Editor -> Run ->Run
 5. You will get 3 figures. Which figure corresponds to which plot is mentioned in the figure itself
 6. Figure 3 is for understanding purpose, to do that hover over the plot in figure 3 choose "Zoom In" option, then drag the mouse cursor so that the rectange lies on left side of    n=50 mark and the curve is in the box
-7. Everything Else is in the report attached.If PDF gets corrupted then you can also use .docx file.
-8. If at any point the comments in code are not clear then you can always refer to the Report there we have provided a detailed explanation behind every step in the code.
+7. Everything Else is in the report attached.
 
